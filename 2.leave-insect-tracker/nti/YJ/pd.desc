@@ -1,0 +1,5 @@
+new("big.matrix.descriptor", description = list(sharedType = "FileBacked", 
+    filename = "pd.bin", dirname = "./nti/YJ/", totalRows = 992L, 
+    totalCols = 992L, rowOffset = c(0, 992), colOffset = c(0, 
+    992), nrow = 992, ncol = 992, rowNames = NULL, colNames = NULL, 
+    type = "double", separated = FALSE))
